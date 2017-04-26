@@ -1,9 +1,7 @@
 Welcome to my page about Fridge Food Saver, an app that will help cut down food waste by saving the contents of your fridge (or other food-storing place) and suggesting recipes to make with the ingredients!
-
 # What is it?
-
 Fridge Food Saver is a smartphone app that can keep track of the expiration dates of food and notify if food is about to go bad. In the app, there are three different tabs. The first tab shows a categorized list of all the food the app is currently keeping track of, and a list at the bottom of the food that has expired. The second tab is the camera mode, where you can use the camera and some OCR to read food “use by” dates. After scanning, you just enter the food’s name and type. The camera also has an additional mode that scans barcodes and tries to more quickly categorize the food. The final tab looks up recipes you can make with your current list of food. There is also a settings button that opens a new window to edit settings like notifications and more.
-
 # What's food waste?
-
 Food waste is a very important issue. As the name implies, it's about the waste of uneaten and uncooked food. Over **a third** of all food is thrown away, and that food goes to landfills, where it generates so much methane that it is ranked as the third largest source of methane. (USDA)
+# Works cited
+* USDA | OCE | U.S. Food Waste Challenge | FAQ's. N.p., n.d. Web. 25 Apr. 2017. <https://www.usda.gov/oce/foodwaste/faqs.htm>.
