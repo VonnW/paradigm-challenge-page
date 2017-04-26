@@ -4,4 +4,4 @@ Fridge Food Saver is a smartphone app that can keep track of the expiration date
 # What's food waste?
 Food waste is a very important issue. As the name implies, it's about the waste of uneaten and uncooked food. Over **a third** of all food is thrown away, and that food goes to landfills, where it generates so much methane that it is ranked as the third largest source of methane. (USDA)
 # Works cited
-* USDA | OCE | U.S. Food Waste Challenge | FAQ's. N.p., n.d. Web. 25 Apr. 2017. <https://www.usda.gov/oce/foodwaste/faqs.htm>.
+* `USDA | OCE | U.S. Food Waste Challenge | FAQ's. N.p., n.d. Web. 25 Apr. 2017. <https://www.usda.gov/oce/foodwaste/faqs.htm>.`
