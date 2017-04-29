@@ -39,6 +39,10 @@ footer {
 	color: #1f2f4f;
 	text-align: center;
 }
+img {
+	width: 180;
+	height: 299;
+}
 .box {
 	border: 1px solid #1f2f4f;
 	border-radius: 2px;
