@@ -41,14 +41,14 @@ footer {
 	text-align: center;
 }
 img {
-	width: 180;
-	height: 299;
+	width: 180px;
+	height: 299px;
 }
 .box {
 	border: 1px solid #1f2f4f;
 	border-radius: 2px;
 	color: #ffffff;
-	background: #3f7fff;
+	background: #1f3f7f;
 	margin: 10px;
 	padding: 20px 30px;
 }
